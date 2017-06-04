@@ -1,0 +1,3 @@
+- make webpack handle scss and make /css/main.css and /css/vendor.css
+- make webpack hotreload 
+- add logger and test
